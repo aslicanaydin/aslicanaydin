@@ -3,7 +3,7 @@
 <!--About Me-->
 - 👋 Hello, I’m Aslı from Turkey!
 - 📖 I'm studying Management Information Systems at [Istanbul University](https://www.istanbul.edu.tr/tr/_) 
-- 👀 Interested in Front-End Web Development, Data Science, AI and many other things!
+- 👀 Interested in Data Science, AI and many other things!
 - 🌱 Currently learning Data Science from [Kodluyoruz](https://kodluyoruz.org/)
 - 💻 I'm working at [Kovan App](https://kovan.app/) as a Data Labeler 
 - 📫 Reach me anytime aslicanaydin@windowslive.com
